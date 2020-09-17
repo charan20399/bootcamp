@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="2" skipped="0" total="2">
+    <suite duration-ms="44637" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="44637" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="To Test the OrangeHrm Application">
+                <test-method duration-ms="22093" finished-at="2020-09-17T07:07:34.194109Z" name="To test the admin page of orangehrm" started-at="2020-09-17T07:07:11.980738500Z" status="PASS"/>
+                <test-method duration-ms="21469" finished-at="2020-09-17T07:07:55.915786400Z" name="To test the admin page of orangehrm_2" started-at="2020-09-17T07:07:34.439936700Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
